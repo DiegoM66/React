@@ -1,0 +1,17 @@
+*{
+    background-color: #1C1C1C;
+}
+.Botoes {
+    background-color: aqua;
+}
+.Botoes span {
+    font-size: 20px;
+    background-color: aqua;
+    color: #1C1C1C;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Botoes button {
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: crimson;
+}
